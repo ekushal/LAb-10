@@ -1,0 +1,11 @@
+{
+  "name": "threejs-lab",
+  "version": "1.0.0",
+  "description": "Three.js Lab Assignment",
+  "scripts": {
+    "dev": "vite threejs-lab"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
